@@ -54,7 +54,7 @@ You should see `llava:7b` in the list of available models.
 
 1. **Clone the repository** (if using Git):
    ```bash
-   git clone https://github.com/yourusername/ai-image-reader.git
+   git clone https://github.com/PrajwalNandaragi/Image_Summarization.git
    cd ai-image-reader
    ```
 
