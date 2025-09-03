@@ -147,21 +147,6 @@ ai-image-reader/
 - **Loading States**: Visual feedback during AI processing
 - **Session Management**: Results persist during the session
 
-## 🔧 Configuration
-
-### Model Configuration
-The app uses the `llava:7b` model by default. To use a different model:
-
-1. Pull the desired model in Ollama:
-   ```bash
-   ollama pull your-model-name
-   ```
-
-2. Update the model name in `app.py`:
-   ```python
-   model='your-model-name'
-   ```
-
 ### Customization
 - **Colors**: Modify the CSS variables in the `<style>` section
 - **Layout**: Adjust column widths and spacing
