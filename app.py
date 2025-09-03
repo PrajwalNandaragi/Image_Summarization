@@ -265,4 +265,5 @@ else:
         <h3>👆 Upload an image to get started</h3>
         <p>Your image will be analyzed by AI to provide detailed descriptions, text extraction, and summarization</p>
     </div>
-    """, unsafe_allow_html=True)
+
+    """, unsafe_allow_html=True) 
